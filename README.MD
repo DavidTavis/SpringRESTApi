@@ -1,0 +1,2 @@
+In this project i have created REST web service, that allows to communicate between client and server by saving, getting, deleting, and updating some data in DB.
+I used following stack of technologies: Spring,Hibernate,Tomcat,Postgres
